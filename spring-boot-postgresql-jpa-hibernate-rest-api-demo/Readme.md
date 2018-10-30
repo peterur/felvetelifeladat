@@ -1,5 +1,5 @@
 
-## Ebből a demo programból indultam ki
+## Ebből a tutorialból indultam ki
 ## Spring Boot, PostgreSQL, JPA, Hibernate REST API Demo
 
 ## Tutorial
