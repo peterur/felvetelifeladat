@@ -1,0 +1,3 @@
+com\example\postgresdemo\model\AuditModel.class
+com\example\postgresdemo\exception\ResourceNotFoundException.class
+com\example\postgresdemo\PostgresDemoApplication.class
